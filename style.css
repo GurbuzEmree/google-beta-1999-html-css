@@ -1,0 +1,38 @@
+* {
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    width: 1597px;
+    height: auto;
+}
+
+.logo {
+    width: 1597px;
+    text-align: center;
+}
+
+.arama {
+    width: 1597px;
+    height: 78px;
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+
+.footer {
+    width: 1597px;
+}
+
+.footer-list {
+    margin-top: 2px;
+    text-align: center;
+    width: 531px;
+    height: 120px;
+    font-size: 13px;
+    background-color: rgb(98, 179, 170);
+    float: left;
+}
+a{
+    color: blue;
+}
